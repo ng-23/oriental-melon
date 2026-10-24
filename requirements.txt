@@ -34,7 +34,7 @@ opentelemetry-semantic-conventions==0.66b1 ; python_version == "3.13" or python_
 protobuf==7.36.2 ; python_version == "3.13" or python_version >= "3.14"
 pydantic-core==2.50.1 ; python_version == "3.13" or python_version >= "3.14"
 pydantic-extra-types==2.11.1 ; python_version == "3.13" or python_version >= "3.14"
-pydantic-settings==2.16.0 ; python_version == "3.13" or python_version >= "3.14"
+pydantic-settings==2.16.1 ; python_version == "3.13" or python_version >= "3.14"
 pydantic==2.14.1 ; python_version == "3.13" or python_version >= "3.14"
 pygments==2.21.0 ; python_version == "3.13" or python_version >= "3.14"
 python-dotenv==1.2.4 ; python_version == "3.13" or python_version >= "3.14"
